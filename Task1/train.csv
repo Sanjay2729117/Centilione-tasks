@@ -1,0 +1,31 @@
+PRODUCT_ID,TITLE,BULLET_POINTS,DESCRIPTION,PRODUCT_TYPE_ID,PRODUCT_LENGTH
+1,Comfortable Shoes,"Breathable material, Soft sole, Durable",These shoes are perfect for long walks. They feature a breathable material and a soft sole for comfort.,A,Medium
+2,Leather Wallet,"Genuine leather, Compact design, Secure closure",A stylish leather wallet with multiple card slots and a secure zipper closure.,B,Short
+3,Smartphone Case,"Shockproof, Slim design, Easy access",This smartphone case provides excellent protection while maintaining a slim profile.,C,Short
+4,Office Chair,"Ergonomic design, Adjustable height, Comfortable","The office chair features a comfortable ergonomic design, ideal for long hours of work.",D,Medium
+5,Bluetooth Headphones,"Noise cancellation, Long battery life, Wireless",These wireless Bluetooth headphones offer noise cancellation and a long battery life.,E,Long
+6,Backpack,"Waterproof, Multiple compartments, Comfortable straps",A waterproof backpack with multiple compartments for easy organization and comfort.,A,Medium
+7,Kitchen Blender,"High-speed motor, Easy to clean, Versatile","This kitchen blender is powerful and easy to clean, ideal for making smoothies and soups.",B,Short
+8,Desk Lamp,"Adjustable brightness, Energy-efficient, Sleek design","This LED desk lamp offers adjustable brightness and energy efficiency, perfect for studying.",C,Short
+9,Electric Kettle,"Fast boiling, Auto shut-off, Stainless steel",A high-quality electric kettle that boils water quickly and has an auto shut-off feature.,D,Medium
+10,Wireless Mouse,"Ergonomic, High precision, Durable",This wireless mouse provides high precision and is designed for ergonomic comfort.,E,Short
+11,Sports Watch,"Water-resistant, Multiple functions, Stylish","A multi-functional sports watch with water resistance, ideal for athletes.",A,Medium
+12,Sunglasses,"UV protection, Stylish design, Lightweight",These sunglasses offer UV protection with a stylish and lightweight frame.,B,Short
+13,Fitness Tracker,"Heart rate monitor, Step counter, Waterproof","A fitness tracker that monitors heart rate, steps, and is waterproof for all activities.",C,Long
+14,Handheld Vacuum,"Compact design, Strong suction, Easy to store","This handheld vacuum has strong suction power in a compact, easy-to-store design.",D,Short
+15,Tote Bag,"Large capacity, Eco-friendly, Durable","A spacious tote bag made from eco-friendly materials, perfect for everyday use.",E,Medium
+16,Coffee Maker,"One-touch brewing, Compact size, Easy to clean",A compact coffee maker with one-touch brewing and easy cleaning for a perfect cup.,A,Short
+17,Gaming Mouse,"High DPI, RGB lighting, Customizable","This gaming mouse features high DPI settings, RGB lighting, and customizable buttons.",B,Short
+18,Smartwatch,"Heart rate monitor, GPS, Stylish design","A smartwatch that includes heart rate monitoring, GPS, and a sleek design for everyday use.",C,Long
+19,Wristwatch,"Classic design, Water-resistant, Durable",A timeless wristwatch with a classic design and water resistance for daily wear.,D,Medium
+20,Yoga Mat,"Non-slip surface, Thick padding, Lightweight","A high-quality yoga mat with a non-slip surface, thick padding for comfort, and lightweight for portability.",E,Medium
+21,Photo Frame,"Wooden frame, Stylish design, Easy to hang","A wooden photo frame with a stylish design, perfect for displaying your favorite photos.",A,Short
+22,Electric Toothbrush,"Multiple modes, Rechargeable, Compact",This electric toothbrush offers multiple modes and is rechargeable for convenience.,B,Short
+23,Portable Speaker,"Waterproof, High-quality sound, Bluetooth",A portable Bluetooth speaker that delivers high-quality sound and is waterproof for outdoor use.,C,Short
+24,Tent,"Weatherproof, Easy to set up, Spacious","A spacious weatherproof tent that's easy to set up, perfect for camping trips.",D,Medium
+25,Running Shoes,"Breathable mesh, Comfortable sole, Lightweight","These running shoes feature breathable mesh material, a comfortable sole, and are lightweight.",E,Medium
+26,Smart TV,"4K resolution, Smart features, Energy-efficient",A 55-inch smart TV with 4K resolution and energy-efficient features for a superior viewing experience.,A,Long
+27,Luggage,"Durable material, Multiple compartments, Lightweight",A lightweight and durable luggage with multiple compartments for easy packing and travel.,B,Medium
+28,Guitar,"High-quality sound, Stylish design, Easy to play","An acoustic guitar with high-quality sound, easy playability, and a stylish design.",C,Long
+29,Headphones,"Noise isolation, Comfortable fit, Durable","These over-ear headphones offer noise isolation, a comfortable fit, and durability for long listening sessions.",D,Medium
+30,Bicycle,"Durable frame, Smooth ride, Comfortable seat",A durable bicycle with a smooth ride and a comfortable seat for long-distance cycling.,E,Medium
